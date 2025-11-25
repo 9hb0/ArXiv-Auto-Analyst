@@ -1,0 +1,5 @@
+{
+  "name": "ArXiv Intelligent Agent",
+  "description": "An automated research assistant that tracks, filters, and analyzes new Computer Vision and AI papers from ArXiv using Gemini 2.5.",
+  "requestFramePermissions": []
+}
